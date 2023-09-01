@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://rShar01.github.io/test/example/</loc>
+    <lastmod>2023-09-01T18:32:32-04:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/</loc>
+    <lastmod>2023-09-01T18:32:32-04:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/test/</loc>
+    <lastmod>2023-09-01T18:32:32-04:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/about/</loc>
+    <lastmod>2023-09-01T18:31:15-04:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/about/test/</loc>
+    <lastmod>2023-08-21T14:28:43-07:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/posts/my-first-post/</loc>
+    <lastmod>2023-08-21T14:28:43-07:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/posts/</loc>
+    <lastmod>2023-08-21T14:28:43-07:00</lastmod>
+  </url><url>
+    <loc>http://rShar01.github.io/categories/</loc>
+  </url><url>
+    <loc>http://rShar01.github.io/tags/</loc>
+  </url>
+</urlset>
