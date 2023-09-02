@@ -6,7 +6,7 @@ draft: false
 
 
 Most recently, I have summarized Causal normalizing flows: From theory to practice. The link to my summary can
-be found [here](https://rshar01.github.io/publish/causal-normalizing-flows.html). 
+be found [here](https://rshar01.github.io/publish/papers/causal-normalizing-flows.html). 
 
 Other papers I have summarized:
 - Empty for now
