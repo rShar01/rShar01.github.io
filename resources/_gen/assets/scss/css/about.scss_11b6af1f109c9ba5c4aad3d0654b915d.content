@@ -1,1 +1,0 @@
-ul{list-style:none}li{position:relative;padding:10px}li a{color:gray}li:before{content:'';width:16px;height:16px;border-radius:50%;background:#d8d8d8;position:absolute;left:-15px;top:50%;transform:translateY(-40%)}li:not(:last-child):after{content:'';width:2px;height:100%;background:#d8d8d8;position:absolute;left:-8px;top:50%}
