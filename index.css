@@ -96,7 +96,7 @@ ul, li{
 
 .line-list-container{
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   padding: 0 1rem;
   padding-bottom: 1%;
